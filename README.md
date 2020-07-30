@@ -1,7 +1,7 @@
 # aboutFelix925
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felix925" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=felix925&count_private=true&show_icons=true" />
 </a>
-<a href="https://twitter.com/FeliTech_Kotlin">
-  <img src="https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=plastic">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felix925" />
 </a>
